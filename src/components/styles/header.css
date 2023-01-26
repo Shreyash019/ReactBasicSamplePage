@@ -1,0 +1,36 @@
+.header-container{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    min-height: 50px;
+}
+
+.header-title{
+    width: 40%;
+    min-height: 30px;
+    margin-top: 13px;
+    position: left;
+    float: left;
+    text-align: left;
+    margin-left: 15%;
+}
+
+.header-navopt{
+    width: 45%;
+    min-height: 30px;
+    margin-top: 13px;
+    float: left;
+    text-align: left;
+}
+
+a{
+    color: rgb(171, 73, 73);
+    font-size: 1.2em;;
+    font-weight: 900;
+    padding: 2% 5%;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:rgb(255, 165, 119);
+    font-size: 1.25em;
+}

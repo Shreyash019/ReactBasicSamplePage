@@ -1,0 +1,10 @@
+.about-container{
+    background-color: rgb(203, 232, 255);
+    height:20rem;
+}
+.about-container h3{
+    text-align: center;
+}
+.about-container p{
+    margin: 0% 5%;
+}
